@@ -1,0 +1,5 @@
+homepage: "https://www.cookielegit.site"
+documentation: "https://www.cookielegit.site/docs"
+versions:
+  - sha: 5aa6536b928c5c61113986a7d2565af6143109fb
+    changeNotes: Initial Version
