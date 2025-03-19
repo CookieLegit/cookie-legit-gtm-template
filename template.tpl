@@ -35,7 +35,7 @@ ___TEMPLATE_PARAMETERS___
 [
   {
     "type": "PARAM_TABLE",
-    "name": "defautlConsentSettings",
+    "name": "defaultConsentSettings",
     "displayName": "Default cookie consent",
     "paramTableColumns": [
       {
