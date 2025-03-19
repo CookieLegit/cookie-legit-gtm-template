@@ -1,5 +1,8 @@
 homepage: "https://www.cookielegit.site"
 documentation: "https://www.cookielegit.site/docs"
 versions:
+  - sha: 6a1dcb464f24d285782cac88313d9423ac449abe
+    changeNotes: Correct spelling error in parameters table
+
   - sha: 1bdf536d65fd74762bf673d30478944a8c1891d8
     changeNotes: Initial Version
