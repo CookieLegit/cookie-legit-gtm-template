@@ -215,7 +215,9 @@ const main = (data) => {
   const settings = getCookieValues(COOKIE_NAME)[0];
   
   if (typeof settings !== 'undefined') {
-    onUserConsent(JSON.parse(settings));
+    updateConsentState(
+      createConsentState(JSON.parse(settings))
+    );
   }
   
   callInWindow('cookieLegitGtmCaller', onUserConsent);
