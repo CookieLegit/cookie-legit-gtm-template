@@ -1,6 +1,9 @@
 homepage: "https://www.cookielegit.site"
 documentation: "https://www.cookielegit.site/docs"
 versions:
+  - sha: 0a9980f4b9124b7f5a504c16d5078efa6a382825
+    changeNotes: Fix duplicated call on CookieLegitConsentUpdated custom trigger
+
   - sha: 6a1dcb464f24d285782cac88313d9423ac449abe
     changeNotes: Correct spelling error in parameters table
 
